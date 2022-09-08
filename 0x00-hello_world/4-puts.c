@@ -1,11 +1,9 @@
 #include <stdio.h>
 
-
-
 /**
  *
  * main - print the string in the put function
- *
+ * @void
  *
  *
  * Description: using the main function
