@@ -1,25 +1,10 @@
 #include <stdio.h>
-
 /**
+ * main - entry point
  *
- * main - print the string in the put function
- * @void
- *
- *
- * Description: using the main function
- * 
- * this program prints "Programming is like building a multilingual puzzle
- *
- * Return: 0
- *
+ * Return: 0 after printing fn
  */
-
 int main(void)
-
-{
-
-		puts("\"Programming is like building a multilingual puzzle");
-
-		return (0);
-
+{puts("\" Programming is like building a multilingual puzzle");
+	return(0);
 }
