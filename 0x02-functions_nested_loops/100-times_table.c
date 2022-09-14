@@ -8,7 +8,6 @@ void print_times_table(int n)
 {
 int row, col;
 int mult = 0;
-
 if (n <= 15 && n >= 0)
 {
 for (row = 0; row <= n; row++)
@@ -16,7 +15,6 @@ for (row = 0; row <= n; row++)
 for (col = 0; col <= n; col++)
 {
 mult = (row * col);
-
 if (mult < 10)
 {
 if (col != 0)
