@@ -1,5 +1,5 @@
 #include "main.h"
-/*
+/**
  * print_alphabet - print alphabets
  *
  * Return: 0
