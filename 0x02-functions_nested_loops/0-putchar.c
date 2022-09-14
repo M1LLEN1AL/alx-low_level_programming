@@ -7,7 +7,7 @@
 int main(void)
 {
 int n = 0;
-char str_ptc[8] = "Putchar"
+char str_ptc[8] = "Putchar";
 
 while (n < 8)
 {
