@@ -6,6 +6,9 @@
  *int prototypes()
  *char prototypes()
  */
+int _putchar(char c);
+int _strcmp(char *s1, char *s2);
+void print_buffer(char *b, int size);
 void reverse_array(int *a, int n);
 void print_number(int n);
 void print_buffer(char *b, int size);
